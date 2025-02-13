@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Coffee paper cup",
+      "price": "50",
+      "category": "coffee cup",
+      "quantity": "99",
+      "description": "Panda Printed Paper Coffee Cup on Table",
+      "image": "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "3",
+      "name": "Cup of tea",
+      "price": "120",
+      "category": "tea",
+      "quantity": 20,
+      "description": "Steaming Hot Tea in a Glass on Wooden Table\n",
+      "image": "https://images.pexels.com/photos/28643910/pexels-photo-28643910/free-photo-of-steaming-hot-tea-in-a-glass-on-wooden-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "4",
+      "name": "Pentax camera",
+      "price": "1250",
+      "category": "camera",
+      "quantity": "2",
+      "description": "A Black and Silver Vintage Camera",
+      "image": "https://images.pexels.com/photos/7727508/pexels-photo-7727508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "5",
+      "name": "Soda cans",
+      "price": "55",
+      "category": "drink",
+      "quantity": 20,
+      "description": "Photo Of Soda Cans",
+      "image": "https://images.pexels.com/photos/3407777/pexels-photo-3407777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "7414",
+      "name": "White Nike Sneakers",
+      "price": "222",
+      "category": "shoes",
+      "quantity": "12",
+      "description": "Photo of Sneakers on White Background",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "2376",
+      "name": "Over-Ear Headphones",
+      "price": "550",
+      "category": "headphones",
+      "quantity": "60",
+      "description": "Top View Photo of Black Wireless Headphones",
+      "image": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "e4a5",
+      "name": "tea",
+      "price": "10",
+      "category": "cofee",
+      "quantity": "12",
+      "description": "cofee",
+      "image": "https://images.pexels.com/photos/531761/pexels-photo-531761.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
