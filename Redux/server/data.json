@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Coffee paper cup",
+      "price": "12",
+      "category": "coffee cup",
+      "quantity": "99",
+      "description": "Panda Printed Paper Coffee Cup on Table",
+      "image": "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "3",
+      "name": "Cup of tea",
+      "price": "120",
+      "category": "tea",
+      "quantity": 20,
+      "description": "Hot Tea in a Glass on Wooden Table\n",
+      "image": "https://images.pexels.com/photos/28643910/pexels-photo-28643910/free-photo-of-steaming-hot-tea-in-a-glass-on-wooden-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "4",
+      "name": "Pentax camera",
+      "price": "1250",
+      "category": "camera",
+      "quantity": "2",
+      "description": "A Black and Silver Vintage Camera",
+      "image": "https://images.pexels.com/photos/7727508/pexels-photo-7727508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "5",
+      "name": "Soda cans",
+      "price": "55",
+      "category": "drink",
+      "quantity": 20,
+      "description": "Photo Of Soda Cans Soda Cans",
+      "image": "https://images.pexels.com/photos/3407777/pexels-photo-3407777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "7414",
+      "name": "White Nike Sneakers",
+      "price": "222",
+      "category": "shoes",
+      "quantity": "12",
+      "description": "Photo of Sneakers on White Background",
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": "e002",
+      "name": "Ozeino Gaming Headset ",
+      "price": "650",
+      "category": "Headset",
+      "quantity": "98",
+      "description": "Gaming Headset for PC, Ps4, Ps5, Xbox Headset",
+      "image": "https://m.media-amazon.com/images/I/712OyBPPL0L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "97d7",
+      "name": "Sceptre Curved screen",
+      "price": "789",
+      "category": "screen",
+      "quantity": "154",
+      "description": "Sceptre Curved 24.5-inch Gaming Monitor\n",
+      "image": "https://m.media-amazon.com/images/I/71P1MZ8ztDL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "bfd4",
+      "name": "Gaming Controller",
+      "price": "741",
+      "category": "Gaming Controller",
+      "quantity": "654",
+      "description": "Xbox Core Wireless Gaming Controller",
+      "image": "https://m.media-amazon.com/images/I/61hxzGfRpKL._SL1500_.jpg"
+    }
+  ]
+}
